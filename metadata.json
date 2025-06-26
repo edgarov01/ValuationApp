@@ -1,0 +1,6 @@
+{
+  "name": "Valuation Sandbox & Portfolio Ledger",
+  "description": "A web application for manual company valuation analysis and personal investment portfolio tracking. All data is entered manually, serving as an educational tool and private ledger.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
